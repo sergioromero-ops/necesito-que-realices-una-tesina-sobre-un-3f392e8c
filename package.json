@@ -1,0 +1,12 @@
+{
+  "name": "necesito-que-realices-una-tesina-sobre-un-3f392e8c",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
